@@ -35,3 +35,8 @@ If steganography is detected, the script will report the number of suspicious ch
 
 Author
 Developed by nanobug8/nano_bit
+
+## References
+This tool is inspired by and builds upon research from other steganography tools:
+
+- HiddenWave: [techchipnet/HiddenWave](https://github.com/techchipnet/HiddenWave)
